@@ -1,0 +1,12 @@
+# dependencies / generated
+node_modules/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# generated artifacts
+audit_out/
+qa/
+*.docx
